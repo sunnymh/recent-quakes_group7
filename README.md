@@ -1,3 +1,7 @@
+Group Members:
+--------------
+Vincent Canlas, He Ma, Alyssa Parker, Carl Shan  
+
 Due Date
 --------
 Monday, October 21st, 2013 (2013-10-21) at 11:59pm. On Tuesday Oct
