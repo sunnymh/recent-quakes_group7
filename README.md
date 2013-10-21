@@ -2,6 +2,19 @@ Group Members:
 --------------
 Vincent Canlas, He Ma, Alyssa Parker, Carl Shan  
 
+How to run our code:
+--------------------
+1. Our code is **Recent\_Earthquakes_Group7.ipynb**. You need to download this file only.  
+2. We used `urllib`, `read_csv` from `pandas`, `csv`, `json`, `time`,`re` and `folium`.  
+   To run our code, please **install** `folium` via:  
+        `sudo pip install folium`  
+    More information at: https://folium.readthedocs.org/en/latest/  
+    `csv`, `json`, `time` and `re` are standard packages for Python 2.7+.  
+    You should already have `urlib` and `pandas`.  
+3. The code uses `live data` of feeds in the past day for 1.0+ earthquakes.  
+   For other feeds, please change the variables in **Part 0** of the code.  
+   Instructions are in the comment for each variable.
+
 Due Date
 --------
 Monday, October 21st, 2013 (2013-10-21) at 11:59pm. On Tuesday Oct
@@ -24,12 +37,6 @@ inside your virtual machine:
 Then run the notebook from your machine with this command:
 
     ipython notebook --no-browser --ip=0.0.0.0 --script --pylab=inline
-
-You should also install Folium, a Python package for geo-visualizations. You can install Folium via:
-
-   sudo pip install folium
-
-You can read more about Folium here: https://folium.readthedocs.org/en/latest/
 
 Objective
 ---------
