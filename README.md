@@ -12,7 +12,7 @@ How to run our code:
     `csv`, `json`, `time` and `re` are standard packages for Python 2.7+.  
     You should already have `urlib` and `pandas`.  
 3. The code uses `live data` of feeds in the past day for 1.0+ earthquakes.  
-   For other feeds, please change the variables in **Part 0** of the code.  
+   For other settings, please change the variables in **Part 0** of the code.  
    Instructions are in the comment for each variable.
 
 Due Date
