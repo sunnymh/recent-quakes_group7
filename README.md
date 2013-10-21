@@ -25,6 +25,11 @@ Then run the notebook from your machine with this command:
 
     ipython notebook --no-browser --ip=0.0.0.0 --script --pylab=inline
 
+You should also install Folium, a Python package for geo-visualizations. You can install Folium via:
+
+   sudo pip install folium
+
+You can read more about Folium here: https://folium.readthedocs.org/en/latest/
 
 Objective
 ---------
