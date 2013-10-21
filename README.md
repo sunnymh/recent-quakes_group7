@@ -7,7 +7,7 @@ How to run our code:
 1. Our code is **Recent\_Earthquakes_Group7.ipynb**. You need to download this file only.  
 2. We used `urllib`, `read_csv` from `pandas`, `csv`, `json`, `time`,`re` and `folium`.  
    To run our code, please **install** `folium` via:  
-        `sudo pip install folium`  
+        `sudo pip install folium` and `sudo pip install jinja2`  
     More information at: https://folium.readthedocs.org/en/latest/  
     `csv`, `json`, `time` and `re` are standard packages for Python 2.7+.  
     You should already have `urlib` and `pandas`.  
