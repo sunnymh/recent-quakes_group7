@@ -4,7 +4,7 @@ Vincent Canlas, He Ma, Alyssa Parker, Carl Shan
 
 How to run our code:
 --------------------
-1. Our code is **Recent\_Earthquakes_Group7.ipynb**. You need to download this file only.  
+1. Our code is **Recent\_Earthquakes_Group7.ipynb**. You need to open this file in ipython notebook.  
 2. We used `urllib`, `read_csv` from `pandas`, `csv`, `json`, `time`,`re` and `folium`.  
    To run our code, please **install** `folium` via:  
         `sudo pip install folium` and `sudo pip install jinja2`  
