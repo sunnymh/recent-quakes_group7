@@ -1,164 +1,197 @@
 net,code,time,latitude,longitude,mag,depth,nst,region,distance,direction
-nc,72091806,"Monday, October 21, 2013 04:15:38 UTC",37.3668,-118.5833,1.2,11.5,,"West Bishop, California",11km,W
-ci,11381474,"Monday, October 21, 2013 04:13:20 UTC",33.6622,-116.7203,1.2,15.8,18,"Idyllwild, California",8km,S
-ci,11381466,"Monday, October 21, 2013 04:11:16 UTC",33.965,-116.3685,2,8.7,58,"Desert Edge, California",8km,NE
-us,b000khrn,"Monday, October 21, 2013 04:09:52 UTC",1.4794,126.2825,4.7,44.24,,"Bitung, Indonesia",122km,E
-pr,13294000,"Monday, October 21, 2013 04:05:42 UTC",19.1245,-66.4803,3,11,12,"Tierras Nuevas Poniente, Puerto Rico",73km,N
-us,b000khrf,"Monday, October 21, 2013 04:01:57 UTC",-22.8825,-174.8889,5.4,24.35,,"`Ohonua, Tonga",171km,S
-us,b000khrb,"Monday, October 21, 2013 03:33:35 UTC",42.2852,142.9612,4.6,62.02,,"Shizunai, Japan",49km,E
-us,b000khr7,"Monday, October 21, 2013 03:08:57 UTC",3.2342,90.6762,4.5,14.55,,Off the west coast of northern Sumatra,NA,NA
-nn,00426861,"Monday, October 21, 2013 03:02:50 UTC",35.9196,-114.9592,1.16,13.3735,9,"Henderson, Nevada",13km,S
-nc,72091791,"Monday, October 21, 2013 03:02:23 UTC",38.7917,-122.757,2.1,1.6,,"The Geysers, California",1km,N
-ak,10827415,"Monday, October 21, 2013 02:54:57 UTC",61.6192,-150.9569,1.6,65.9,,"Willow, Alaska",50km,WSW
-ak,10827410,"Monday, October 21, 2013 02:40:56 UTC",61.5532,-140.7431,1.8,12.4,,"Cape Yakataga, Alaska",189km,NNE
-nc,72091786,"Monday, October 21, 2013 02:40:52 UTC",38.8097,-122.7867,0.3,2.6,,"The Geysers, California",4km,NW
-ak,10827403,"Monday, October 21, 2013 02:30:33 UTC",61.0712,-151.4284,1.6,45.8,,"Nikiski, Alaska",43km,N
-us,b000khr2,"Monday, October 21, 2013 02:27:19 UTC",35.3303,76.9771,5.3,96.82,,"Thang, India",50km,NNE
-ak,10827401,"Monday, October 21, 2013 02:26:48 UTC",60.2009,-141.7449,1.5,0,,"Cape Yakataga, Alaska",40km,ENE
-ci,11381442,"Monday, October 21, 2013 02:08:23 UTC",33.3303,-116.3925,1.1,4.9,20,"Borrego Springs, California",8km,N
-ci,11381434,"Monday, October 21, 2013 01:51:03 UTC",35.6652,-118.465,1.8,10.1,13,"Wofford Heights, California",4km,S
-ci,11381426,"Monday, October 21, 2013 01:47:10 UTC",33.2845,-116.212,1.1,25.3,12,"Borrego Springs, California",15km,ENE
-nn,00426855,"Monday, October 21, 2013 01:42:54 UTC",39.3979,-119.5549,0.8,6.2067,10,"Virginia City, Nevada",12km,NE
-nc,72091771,"Monday, October 21, 2013 01:23:12 UTC",38.764,-122.8438,1.1,4.5,,"The Geysers, California",7km,W
-ak,10827388,"Monday, October 21, 2013 01:18:26 UTC",60.7614,-147.5354,1.8,24.9,,"Whittier, Alaska",62km,E
-nc,72091751,"Monday, October 21, 2013 01:01:19 UTC",39.6887,-122.4735,1.3,25.1,,"Orland, California",24km,WSW
-ak,10827380,"Monday, October 21, 2013 00:54:48 UTC",60.3252,-141.803,1.1,16.7,,"Cape Yakataga, Alaska",45km,NE
-nc,72091736,"Monday, October 21, 2013 00:40:55 UTC",36.7847,-121.4852,1.2,5.5,,"San Juan Bautista, California",8km,SE
-ak,10827372,"Monday, October 21, 2013 00:17:56 UTC",59.738,-153.0518,2.8,82,,"Anchor Point, Alaska",68km,W
-us,b000khqq,"Monday, October 21, 2013 00:12:32 UTC",-22.9468,-66.4446,4.3,251.19,,"Abra Pampa, Argentina",80km,WSW
-ak,10827368,"Sunday, October 20, 2013 23:56:21 UTC",62.895,-148.886,1.4,3,,"Cantwell, Alaska",55km,S
-ak,10827364,"Sunday, October 20, 2013 23:45:37 UTC",60.7944,-149.6639,1.8,30.9,,"Anchorage, Alaska",48km,SSE
-uw,60614632,"Sunday, October 20, 2013 23:38:07 UTC",45.8227,-122.4247,1,10.8,,"Venersborg, Washington",5km,N
-us,b000khqk,"Sunday, October 20, 2013 23:34:16 UTC",9.9116,124.1274,4.9,36.01,,"Sagbayan, Philippines",3km,E
-nc,72091711,"Sunday, October 20, 2013 23:26:16 UTC",38.8398,-122.7817,0.3,1.9,,"Cobb, California",5km,WNW
-ci,11381394,"Sunday, October 20, 2013 23:22:02 UTC",35.0293,-117.6873,1.6,0.2,34,"Boron, California",4km,NW
-us,b000khql,"Sunday, October 20, 2013 23:12:43 UTC",31.5952,138.4007,4.2,365.77,,"Hachijo-jima, Japan",211km,SW
-ak,10827353,"Sunday, October 20, 2013 23:11:20 UTC",59.7199,-152.3078,2.5,49.6,,"Anchor Point, Alaska",27km,WSW
-nc,72091701,"Sunday, October 20, 2013 23:10:05 UTC",38.8272,-122.8177,1.1,1.1,,"The Geysers, California",7km,NW
-ci,11381386,"Sunday, October 20, 2013 23:05:34 UTC",34.027,-117.2608,1.3,16.9,39,"Loma Linda, California",2km,S
-us,b000khq7,"Sunday, October 20, 2013 23:03:20 UTC",9.7758,123.9938,5.3,20.02,,"Balilihan, Philippines",3km,NE
-ak,10827343,"Sunday, October 20, 2013 22:44:09 UTC",61.563,-146.4229,2.4,19.8,,"Valdez, Alaska",48km,N
-nc,72091686,"Sunday, October 20, 2013 22:31:02 UTC",36.8353,-121.3182,1.1,6.5,,"Ridgemark, California",4km,ENE
-nc,72091681,"Sunday, October 20, 2013 22:28:17 UTC",38.7882,-122.7448,0.5,4.6,,"The Geysers, California",1km,NE
-us,b000khpu,"Sunday, October 20, 2013 22:24:21 UTC",-10.4056,161.3176,4.9,72.16,,"Kirakira, Solomon Islands",66km,W
-ak,10827337,"Sunday, October 20, 2013 22:19:20 UTC",62.614,-148.3984,0.4,46.5,,"Y, Alaska",90km,NE
-us,b000khpg,"Sunday, October 20, 2013 21:51:32 UTC",-18.6391,-70.0963,4.5,76.61,,"Arica, Chile",28km,SE
-nc,72091676,"Sunday, October 20, 2013 21:45:08 UTC",37.4732,-118.979,1.5,3.9,,"Mammoth Lakes, California",19km,S
-hv,60579886,"Sunday, October 20, 2013 21:44:40 UTC",19.395,-155.2865,2.7,6.4,,"Volcano, Hawaii",6km,SW
-hv,60579891,"Sunday, October 20, 2013 21:44:27 UTC",19.1987,-155.6105,3.5,0.6,,"Pahala, Hawaii",13km,W
-ci,11381354,"Sunday, October 20, 2013 21:41:57 UTC",33.6807,-116.6797,1,19.9,20,"Idyllwild, California",7km,SSE
-nc,72091671,"Sunday, October 20, 2013 21:25:02 UTC",38.8077,-122.8178,0.4,3.4,,"The Geysers, California",6km,WNW
-ak,10827316,"Sunday, October 20, 2013 21:18:39 UTC",61.746,-152.0249,2.1,100,,"Willow, Alaska",104km,W
-nc,72091666,"Sunday, October 20, 2013 21:07:37 UTC",36.0105,-120.5812,0.7,1.5,,"Coalinga, California",24km,SW
-ci,11381338,"Sunday, October 20, 2013 20:36:00 UTC",35.6697,-118.4677,1.4,9.6,11,"Wofford Heights, California",4km,SSW
-ak,10827304,"Sunday, October 20, 2013 20:26:37 UTC",62.1046,-152.5981,1.4,51.8,,"Talkeetna, Alaska",131km,W
-ak,10827299,"Sunday, October 20, 2013 20:21:47 UTC",61.6809,-151.0288,1.8,49.5,,"Willow, Alaska",52km,W
-ak,10827296,"Sunday, October 20, 2013 20:20:19 UTC",60.0634,-140.5906,2.4,5.1,,"Yakutat, Alaska",75km,NW
-pr,13293006,"Sunday, October 20, 2013 20:05:08 UTC",19.0573,-66.4974,2.9,46,4,"Tierras Nuevas Poniente, Puerto Rico",65km,N
-us,b000khnw,"Sunday, October 20, 2013 19:45:05 UTC",35.7836,77.4106,5.4,75.29,,"Thang, India",113km,NNE
-ak,10827287,"Sunday, October 20, 2013 19:42:18 UTC",63.1862,-149.8679,1,85.9,,"Cantwell, Alaska",51km,WSW
-ak,10827284,"Sunday, October 20, 2013 19:39:43 UTC",63.7133,-150.0852,0.9,11.5,,"Healy, Alaska",57km,WSW
-us,b000khnn,"Sunday, October 20, 2013 19:30:05 UTC",13.025,144.7346,4.6,51.68,,"Inarajan Village, Guam",27km,S
-us,b000khnk,"Sunday, October 20, 2013 19:24:18 UTC",-6.3979,147.7712,4.8,77.82,,"Finschhafen, Papua New Guinea",25km,NNW
-us,b000khnc,"Sunday, October 20, 2013 18:48:08 UTC",-6.4779,155.0119,5.1,71.57,,"Panguna, Papua New Guinea",55km,WSW
-ak,10827267,"Sunday, October 20, 2013 18:44:27 UTC",59.2058,-153.2031,3.3,2,,"Anchor Point, Alaska",100km,SW
-ci,11381330,"Sunday, October 20, 2013 18:42:49 UTC",33.6512,-116.744,1,16,18,"Idyllwild-Pine Cove, California",10km,S
-pr,13293004,"Sunday, October 20, 2013 18:32:58 UTC",17.8349,-66.9568,2.6,4,16,"Guanica, Puerto Rico",15km,SSW
-ci,11381322,"Sunday, October 20, 2013 18:29:27 UTC",32.5243,-115.6707,1.5,7.7,13,"Progreso, Mexico",10km,SW
-ak,10827257,"Sunday, October 20, 2013 18:20:54 UTC",62.7476,-150.5674,1.5,100,,"Talkeetna, Alaska",52km,NNW
-nc,72091636,"Sunday, October 20, 2013 18:18:59 UTC",38.8087,-122.8132,0.8,2.3,,"The Geysers, California",6km,NW
-nc,72091631,"Sunday, October 20, 2013 18:18:06 UTC",38.7562,-122.7402,0.5,2.8,,"The Geysers, California",2km,SSE
-nc,72091626,"Sunday, October 20, 2013 17:58:54 UTC",37.5622,-118.8318,0.9,5.1,,"Mammoth Lakes, California",15km,SE
-pr,13293002,"Sunday, October 20, 2013 17:50:10 UTC",18.0065,-68.5006,3.4,76,13,"Boca de Yuma, Dominican Republic",42km,SSE
-hv,60579796,"Sunday, October 20, 2013 17:35:27 UTC",19.4343,-155.2637,2.4,1.6,,"Volcano, Hawaii",2km,W
-ci,11381314,"Sunday, October 20, 2013 17:17:51 UTC",33.039,-116.3943,1.1,10.1,21,"Julian, California",19km,ESE
-ci,11381306,"Sunday, October 20, 2013 17:13:58 UTC",33.6833,-116.79,1.5,18.2,47,"Idyllwild-Pine Cove, California",9km,SW
-ci,11381298,"Sunday, October 20, 2013 17:13:20 UTC",32.594,-115.7353,1.7,9.2,10,"Progreso, Mexico",14km,W
-ci,11381290,"Sunday, October 20, 2013 17:08:29 UTC",33.5808,-116.7352,1.2,13.8,16,"Anza, California",6km,WNW
-ci,11381282,"Sunday, October 20, 2013 17:06:09 UTC",33.6783,-116.7925,2.4,18.3,90,"Idyllwild-Pine Cove, California",9km,SW
-nc,72091606,"Sunday, October 20, 2013 17:03:23 UTC",38.8233,-122.8013,1.8,3.9,,"Cobb, California",6km,W
-ak,10827230,"Sunday, October 20, 2013 17:01:59 UTC",61.6821,-151.0179,2.3,77.1,,"Willow, Alaska",52km,W
-ci,11381274,"Sunday, October 20, 2013 16:55:55 UTC",36.0803,-117.8413,1.9,1.9,27,"Inyokern, California",48km,N
-nc,72091576,"Sunday, October 20, 2013 16:38:01 UTC",36.699,-120.3083,1.9,20.3,,"Mendota, California",8km,SE
-ak,10827224,"Sunday, October 20, 2013 16:37:14 UTC",63.4566,-147.8358,1,14.5,,"Cantwell, Alaska",56km,E
-nc,72091541,"Sunday, October 20, 2013 16:28:38 UTC",38.8282,-122.7967,0.5,2.7,,"Cobb, California",6km,W
-ak,10827211,"Sunday, October 20, 2013 16:17:17 UTC",61.2258,-146.9223,2.7,3.6,,"Valdez, Alaska",32km,WNW
-nc,72091536,"Sunday, October 20, 2013 16:14:28 UTC",38.7543,-122.716,0.5,0.1,,"The Geysers, California",4km,SE
-uw,60614442,"Sunday, October 20, 2013 16:02:33 UTC",46.3623,-122.2215,1.1,6.7,,"Morton, Washington",22km,S
-ak,10827204,"Sunday, October 20, 2013 15:55:16 UTC",64.0681,-149.4794,0.9,11.4,,"Healy, Alaska",34km,NW
-ci,11381258,"Sunday, October 20, 2013 15:42:46 UTC",34.2728,-118.596,1.4,10.7,16,"West Hills, California",9km,NNE
-nc,72091506,"Sunday, October 20, 2013 15:19:46 UTC",38.7745,-122.7375,1.2,4.2,,"The Geysers, California",1km,E
-pr,13293005,"Sunday, October 20, 2013 14:57:49 UTC",18.7138,-66.7154,2.4,27,6,"Arecibo, Puerto Rico",26km,N
-ci,11381218,"Sunday, October 20, 2013 14:19:31 UTC",34.1797,-117.5533,1.4,4.5,43,"Rancho Cucamonga, California",8km,NNE
-ak,10827190,"Sunday, October 20, 2013 14:03:51 UTC",62.9918,-149.0119,1,58.4,,"Cantwell, Alaska",44km,S
-ci,11381210,"Sunday, October 20, 2013 13:50:03 UTC",33.3837,-116.407,1.4,13.3,44,"Borrego Springs, California",14km,NNW
-ci,11381202,"Sunday, October 20, 2013 13:47:42 UTC",36.1533,-118.0745,1.6,5.5,13,"Lone Pine, California",50km,S
-ci,11381194,"Sunday, October 20, 2013 13:42:08 UTC",33.4947,-116.4423,1.1,9.4,37,"La Quinta, California",22km,SSW
-ci,11381186,"Sunday, October 20, 2013 13:41:01 UTC",36.067,-117.6497,1.4,0.1,19,"Searles Valley, California",39km,NNW
-nn,00426835,"Sunday, October 20, 2013 13:39:45 UTC",39.1159,-119.6422,0.22,9.7096,11,"Johnson Lane, Nevada",10km,NE
-nc,72091476,"Sunday, October 20, 2013 13:34:05 UTC",38.8247,-122.7633,1,2.5,,"Cobb, California",3km,W
-nc,72091471,"Sunday, October 20, 2013 13:32:36 UTC",38.809,-122.8265,0.9,3,,"The Geysers, California",7km,WNW
-pr,13293003,"Sunday, October 20, 2013 13:25:32 UTC",18.5373,-67.0525,2.1,81,11,"Isabela, Puerto Rico",5km,NW
-ci,11381178,"Sunday, October 20, 2013 13:18:08 UTC",34.0995,-117.0022,1.2,8.3,13,"Yucaipa, California",8km,NNE
-us,b000khl3,"Sunday, October 20, 2013 13:17:57 UTC",16.6517,-98.0111,4.2,34.83,,"San Pedro Amuzgos, Mexico",9km,E
-us,b000khl5,"Sunday, October 20, 2013 13:16:38 UTC",-56.4946,-25.6342,5.3,10,,"Visokoi Island, ",98km,ENE
-ci,11381170,"Sunday, October 20, 2013 13:00:07 UTC",32.3215,-115.0835,3.6,28.8,15,"Guadalupe Victoria, Mexico",4km,NNE
-us,b000khl6,"Sunday, October 20, 2013 12:54:05 UTC",32.856,35.57,3.5,2,,"Tiberias, Israel",7km,NNE
-ci,11381162,"Sunday, October 20, 2013 12:42:35 UTC",36.1165,-117.6935,1.3,1.7,15,"Searles Valley, California",46km,NW
-nc,72091441,"Sunday, October 20, 2013 12:36:52 UTC",38.8205,-122.806,0.6,3.8,,"The Geysers, California",6km,NW
-ak,10827170,"Sunday, October 20, 2013 12:22:42 UTC",63.2562,-151.1334,1.1,20.7,,"Cantwell, Alaska",110km,W
-nn,00426817,"Sunday, October 20, 2013 12:17:36 UTC",39.3999,-119.5535,2.14,6.663,30,"Virginia City, Nevada",13km,NE
-us,b000khkx,"Sunday, October 20, 2013 12:17:00 UTC",2.3441,-99.8039,4.4,10.37,,West of the Galapagos Islands,NA,NA
-nc,72091426,"Sunday, October 20, 2013 12:15:47 UTC",38.8113,-122.7935,0.9,4,,"The Geysers, California",4km,NW
-pr,13293001,"Sunday, October 20, 2013 12:14:49 UTC",19.1394,-66.4996,2.6,8,7,"Tierras Nuevas Poniente, Puerto Rico",75km,N
-us,b000khkt,"Sunday, October 20, 2013 12:10:12 UTC",2.2775,-99.8513,5,10.21,,West of the Galapagos Islands,NA,NA
-us,b000khkv,"Sunday, October 20, 2013 12:05:48 UTC",52.6208,173.1862,4.6,41.94,,"Attu Station, Alaska",25km,S
-ak,10827164,"Sunday, October 20, 2013 12:03:18 UTC",59.9763,-153.0601,2.2,110.2,,"Redoubt Volcano, Alaska",59km,SSW
-ak,10827161,"Sunday, October 20, 2013 11:31:03 UTC",59.9613,-141.0972,1.5,0.1,,"Cape Yakataga, Alaska",75km,E
-nc,72091386,"Sunday, October 20, 2013 11:30:16 UTC",37.8852,-122.2023,0.9,8,,"Orinda, California",2km,WNW
-nn,00426815,"Sunday, October 20, 2013 11:26:45 UTC",38.294,-119.2042,1.01,7.3673,8,"Bridgeport, California",4km,NNE
-nc,72091376,"Sunday, October 20, 2013 11:18:30 UTC",38.8105,-122.7948,1.4,3.4,,"The Geysers, California",4km,NW
-us,b000khkc,"Sunday, October 20, 2013 11:18:06 UTC",2.1201,-99.9862,4.6,10.46,,West of the Galapagos Islands,NA,NA
-us,b000khk9,"Sunday, October 20, 2013 11:14:59 UTC",2.2458,-99.9615,4.4,10.07,,West of the Galapagos Islands,NA,NA
-ci,11381130,"Sunday, October 20, 2013 10:53:09 UTC",32.1557,-115.2227,2.6,20.5,11,"Alberto Oviedo Mota, Mexico",9km,SSW
-us,b000khk2,"Sunday, October 20, 2013 10:40:36 UTC",45.4384,-77.2982,3.1,5.42,,"Pembroke, Canada",44km,SSW
-ci,11381122,"Sunday, October 20, 2013 10:20:11 UTC",36.0952,-119.2565,2.2,24.9,15,"Woodville, California",5km,W
-nc,72091366,"Sunday, October 20, 2013 10:16:46 UTC",38.8013,-122.771,1.8,1.5,,"The Geysers, California",2km,NNW
-us,b000khju,"Sunday, October 20, 2013 10:11:20 UTC",-5.6379,151.6794,4.6,94.88,,"Kokopo, Papua New Guinea",156km,SSW
-nc,72091351,"Sunday, October 20, 2013 09:56:43 UTC",36.7145,-119.8373,2,16.6,,"West Park, California",1km,ENE
-nn,00426811,"Sunday, October 20, 2013 09:54:43 UTC",39.4005,-119.5533,2.26,7.2151,30,"Virginia City, Nevada",13km,NE
-us,b000khjk,"Sunday, October 20, 2013 09:17:48 UTC",36.5634,-97.8411,3.1,4.95,,"Enid, Oklahoma",18km,N
-ci,11381114,"Sunday, October 20, 2013 08:57:24 UTC",33.8872,-116.229,1.1,5.7,22,"Sky Valley, California",11km,E
-ci,11381106,"Sunday, October 20, 2013 08:57:07 UTC",33.9057,-116.2127,1.2,0.6,15,"Sky Valley, California",13km,E
-uw,60614377,"Sunday, October 20, 2013 08:51:52 UTC",47.4102,-122.6998,0.7,24.6,,"Wauna, Washington",5km,NW
-pr,13293000,"Sunday, October 20, 2013 08:19:14 UTC",17.7964,-67.0404,2.6,28,12,"La Parguera, Puerto Rico",19km,S
-ak,10827135,"Sunday, October 20, 2013 08:17:28 UTC",64.3375,-148.9085,2,36.4,,"North Nenana, Alaska",28km,SSE
-hv,60579736,"Sunday, October 20, 2013 08:10:03 UTC",19.4247,-155.6088,1.8,1.2,,"Honaunau-Napoopoo, Hawaii",27km,E
-nc,72091296,"Sunday, October 20, 2013 08:08:24 UTC",38.8052,-122.79,1.3,1.2,,"The Geysers, California",4km,NW
-us,b000khj3,"Sunday, October 20, 2013 08:05:42 UTC",9.8016,123.7235,5.2,20.17,,"Loon, Philippines",7km,W
-nc,72091271,"Sunday, October 20, 2013 08:05:09 UTC",39.528,-122.1327,2.4,27.3,,"Willows, California",5km,E
-nn,00426809,"Sunday, October 20, 2013 08:03:34 UTC",39.4011,-119.5605,1.56,7.1385,27,"Virginia City, Nevada",12km,NE
-hv,60579726,"Sunday, October 20, 2013 07:40:54 UTC",19.4185,-155.6192,2.7,2.1,,"Honaunau-Napoopoo, Hawaii",26km,E
-ak,10827121,"Sunday, October 20, 2013 07:19:15 UTC",62.4338,-149.7431,1.5,61.4,,"Talkeetna, Alaska",22km,ENE
-ci,11381090,"Sunday, October 20, 2013 07:16:07 UTC",33.8817,-116.231,1.1,7.3,14,"Sky Valley, California",11km,E
-nc,72091241,"Sunday, October 20, 2013 06:50:58 UTC",36.775,-120.1225,2.5,29.7,,"Kerman, California",7km,NW
-ci,11381082,"Sunday, October 20, 2013 06:39:38 UTC",33.6528,-116.7013,1.2,18.9,13,"Idyllwild, California",9km,S
-nc,72091226,"Sunday, October 20, 2013 06:31:54 UTC",38.8332,-122.7825,0.5,1.9,,"Cobb, California",5km,WNW
-us,b000khit,"Sunday, October 20, 2013 06:23:59 UTC",9.8184,124.0567,4.7,19.73,,"Catigbian, Philippines",7km,ESE
-ci,11381058,"Sunday, October 20, 2013 06:14:27 UTC",33.4852,-116.5768,1.3,9,39,"Anza, California",11km,SE
-nc,72091196,"Sunday, October 20, 2013 06:02:39 UTC",38.7603,-122.8472,1.3,4.2,,"The Geysers, California",8km,WSW
-nc,72091191,"Sunday, October 20, 2013 06:00:29 UTC",36.3077,-120.8717,2,4.7,,"King City, California",25km,ENE
-nc,72091181,"Sunday, October 20, 2013 05:54:39 UTC",38.7882,-122.7273,0.9,2.6,,"The Geysers, California",2km,ENE
-nc,72091176,"Sunday, October 20, 2013 05:53:56 UTC",38.8088,-122.8117,1.4,1.9,,"The Geysers, California",5km,NW
-nc,72091171,"Sunday, October 20, 2013 05:53:34 UTC",38.7645,-122.847,1.2,4.5,,"The Geysers, California",8km,W
-nc,72091166,"Sunday, October 20, 2013 05:50:37 UTC",38.7665,-122.8458,1,4.4,,"The Geysers, California",7km,W
-nc,72091156,"Sunday, October 20, 2013 05:50:26 UTC",38.7622,-122.8452,1.5,4.3,,"The Geysers, California",7km,WSW
-nc,72091161,"Sunday, October 20, 2013 05:49:25 UTC",38.7542,-122.7387,0.5,3.7,,"The Geysers, California",2km,SSE
-us,b000khii,"Sunday, October 20, 2013 05:38:18 UTC",19.4923,-92.1161,4.2,13.93,,"Ciudad del Carmen, Mexico",99km,NNW
-us,b000khih,"Sunday, October 20, 2013 05:27:00 UTC",27.1471,65.7523,4.4,10.23,,"Awaran, Pakistan",92km,NE
-hv,60579686,"Sunday, October 20, 2013 05:25:41 UTC",19.9262,-156.1603,3,10.3,,"Kalaoa, Hawaii",28km,NW
-ak,10827097,"Sunday, October 20, 2013 05:16:42 UTC",61.5695,-151.842,2.2,97,,"Willow, Alaska",97km,W
-us,b000khic,"Sunday, October 20, 2013 05:11:21 UTC",27.2444,65.4902,4.3,10.15,,"Awaran, Pakistan",91km,NNE
-ak,10827094,"Sunday, October 20, 2013 05:06:27 UTC",64.5041,-146.984,1.3,2.3,,"Salcha, Alaska",4km,WSW
-ci,11381042,"Sunday, October 20, 2013 04:57:18 UTC",33.325,-116.3882,1.2,5.5,17,"Borrego Springs, California",7km,N
-nn,00426804,"Sunday, October 20, 2013 04:40:52 UTC",39.3095,-119.9911,0.29,6.5886,11,"Incline Village, Nevada",6km,NNW
+ci,11382002,"Tuesday, October 22, 2013 06:57:06 UTC",34.4283,-117.7307,1.1,8.1,17,"Pinon Hills, California",7km,W
+ak,10828094,"Tuesday, October 22, 2013 06:56:21 UTC",64.4525,-149.5024,1,15.9,,"North Nenana, Alaska",23km,SW
+ak,10828090,"Tuesday, October 22, 2013 06:43:20 UTC",63.6085,-150.6746,1.6,12.7,,"Healy, Alaska",88km,WSW
+ak,10828088,"Tuesday, October 22, 2013 06:32:44 UTC",64.8312,-148.6486,0.5,15,,"Ester, Alaska",30km,W
+nc,72092691,"Tuesday, October 22, 2013 06:21:10 UTC",39.5962,-123.0648,1.9,6.5,,"Covelo, California",26km,SE
+nc,72092686,"Tuesday, October 22, 2013 06:19:11 UTC",37.5283,-118.8252,1.2,6.6,,"Mammoth Lakes, California",18km,SE
+nc,72092681,"Tuesday, October 22, 2013 06:18:18 UTC",38.839,-122.8292,0.7,2.6,,"Cobb, California",9km,WNW
+nc,72092671,"Tuesday, October 22, 2013 06:06:11 UTC",38.8107,-122.8115,0.6,2.5,,"The Geysers, California",6km,NW
+us,b000ki9y,"Tuesday, October 22, 2013 05:40:43 UTC",5.0667,96.0306,5.3,48.34,,"Reuleuet, Indonesia",32km,WSW
+nc,72092651,"Tuesday, October 22, 2013 05:37:03 UTC",37.5625,-118.4695,1.8,11.3,,"Dixon Lane-Meadow Creek, California",19km,NNW
+ci,11381962,"Tuesday, October 22, 2013 05:31:11 UTC",32.3823,-115.5555,2.4,13.8,18,"Progreso, Mexico",22km,S
+ci,11381954,"Tuesday, October 22, 2013 05:29:23 UTC",32.3837,-115.5427,2.6,19.2,17,"Progreso, Mexico",22km,S
+nn,00427017,"Tuesday, October 22, 2013 05:29:09 UTC",37.06,-115.2017,1.19,14.57,14,"Alamo, Nevada",34km,S
+ci,11381946,"Tuesday, October 22, 2013 05:28:41 UTC",32.3878,-115.5403,2.6,19.2,16,"Progreso, Mexico",21km,S
+pr,13295006,"Tuesday, October 22, 2013 05:27:19 UTC",19.1292,-66.515,2.9,21,10,"Tierras Nuevas Poniente, Puerto Rico",73km,N
+nc,72092641,"Tuesday, October 22, 2013 04:48:11 UTC",38.8117,-122.8123,0.9,3.4,,"The Geysers, California",6km,NW
+pr,13295005,"Tuesday, October 22, 2013 04:39:22 UTC",19.1438,-66.5,2.8,31,11,"Tierras Nuevas Poniente, Puerto Rico",75km,N
+uw,60615277,"Tuesday, October 22, 2013 04:38:51 UTC",47.6918,-120.3423,0.6,4.6,,"Entiat, Washington",10km,W
+uw,60615272,"Tuesday, October 22, 2013 04:37:17 UTC",47.6928,-120.3407,0.7,3.7,,"Entiat, Washington",10km,W
+ak,10828062,"Tuesday, October 22, 2013 04:32:36 UTC",64.2733,-148.5109,2.1,0.2,,"North Nenana, Alaska",44km,SE
+nn,00427010,"Tuesday, October 22, 2013 04:18:54 UTC",39.6003,-119.7651,0.8,7.846,13,"Sun Valley, Nevada",1km,ENE
+ak,10828056,"Tuesday, October 22, 2013 04:05:49 UTC",62.1741,-145.5048,1.4,18.8,,"Glennallen, Alaska",7km,NNE
+nc,72092626,"Tuesday, October 22, 2013 03:45:23 UTC",38.824,-122.8053,0.8,3.1,,"The Geysers, California",6km,NW
+ak,10828050,"Tuesday, October 22, 2013 03:39:22 UTC",60.1409,-151.9901,1.5,41.9,,"Anchor Point, Alaska",41km,NNW
+us,b000ki96,"Tuesday, October 22, 2013 03:36:13 UTC",-16.1695,-173.9043,4.6,83.73,,"Hihifo, Tonga",29km,SW
+ak,10828043,"Tuesday, October 22, 2013 03:29:40 UTC",61.7538,-151.7148,2.1,97.8,,"Willow, Alaska",88km,W
+ci,11381922,"Tuesday, October 22, 2013 03:28:31 UTC",33.8835,-116.8572,1.7,14.2,63,"Banning, California",4km,SSE
+pr,13295003,"Tuesday, October 22, 2013 03:20:44 UTC",19.1564,-66.5402,2.7,22,7,"Tierras Nuevas Poniente, Puerto Rico",77km,N
+pr,13295002,"Tuesday, October 22, 2013 03:15:49 UTC",19.1103,-66.4795,3.5,26,19,"Tierras Nuevas Poniente, Puerto Rico",71km,N
+nn,00427016,"Tuesday, October 22, 2013 03:06:36 UTC",39.6726,-119.6931,0.15,11.0436,6,"Spanish Springs, Nevada",2km,NNE
+ak,10828028,"Tuesday, October 22, 2013 02:31:34 UTC",63.438,-147.6322,2.4,3.4,,"Cantwell, Alaska",66km,E
+ak,10828024,"Tuesday, October 22, 2013 02:22:36 UTC",61.3047,-151.3024,1,58,,"Nikiski, Alaska",68km,N
+ci,11381914,"Tuesday, October 22, 2013 02:08:49 UTC",34.2483,-116.4417,1.3,7.4,12,"Yucca Valley, California",14km,N
+ci,11381906,"Tuesday, October 22, 2013 01:55:55 UTC",33.14,-116.0695,1.4,8.3,26,"Salton City, California",20km,SSW
+nn,00427014,"Tuesday, October 22, 2013 01:54:19 UTC",39.673,-119.6937,0.63,11.9807,6,"Spanish Springs, Nevada",2km,NNE
+nc,72092596,"Tuesday, October 22, 2013 01:53:51 UTC",39.5972,-123.0645,1.5,6.7,,"Covelo, California",26km,SE
+ci,11381898,"Tuesday, October 22, 2013 01:35:56 UTC",32.9497,-115.5213,2.2,15.1,30,"Brawley, California",3km,SSE
+ak,10828014,"Tuesday, October 22, 2013 01:31:08 UTC",62.1323,-149.6052,1.2,41.7,,"Y, Alaska",13km,ESE
+ak,10828009,"Tuesday, October 22, 2013 01:26:50 UTC",62.37,-152.3915,2.3,5.2,,"Talkeetna, Alaska",118km,W
+nc,72092581,"Tuesday, October 22, 2013 01:19:38 UTC",38.8387,-122.8053,0.7,2.1,,"Cobb, California",7km,WNW
+us,b000ki87,"Tuesday, October 22, 2013 01:18:47 UTC",37.7049,141.9259,5.3,35.21,,"Namie, Japan",85km,ENE
+nn,00427006,"Tuesday, October 22, 2013 01:16:15 UTC",39.6734,-119.6913,0.39,11.3417,12,"Spanish Springs, Nevada",3km,NNE
+hv,60580306,"Tuesday, October 22, 2013 01:03:28 UTC",19.3153,-155.1375,2.4,6.1,,"Volcano, Hawaii",16km,SE
+pr,13295001,"Tuesday, October 22, 2013 01:00:31 UTC",18.9566,-66.2304,2.4,37,3,"Dorado, Puerto Rico",55km,N
+nc,72092566,"Tuesday, October 22, 2013 00:44:51 UTC",38.8305,-122.8257,0.6,2.2,,"Cobb, California",8km,W
+uw,60615197,"Tuesday, October 22, 2013 00:39:05 UTC",46.5627,-118.1658,1.8,4.9,,"Dayton, Washington",30km,NNW
+nc,72092561,"Tuesday, October 22, 2013 00:26:42 UTC",38.831,-122.8642,0.9,2.8,,"The Geysers, California",11km,WNW
+pr,13295000,"Tuesday, October 22, 2013 00:01:05 UTC",17.7996,-66.4304,2.2,14,4,"Santa Isabel, Puerto Rico",18km,S
+us,b000ki7v,"Monday, October 21, 2013 23:50:08 UTC",-6.6901,154.9619,4.7,80.46,,"Panguna, Papua New Guinea",71km,SW
+uw,60615167,"Monday, October 21, 2013 23:39:24 UTC",46.423,-122.2437,0.5,14.5,,"Morton, Washington",15km,S
+nc,72092546,"Monday, October 21, 2013 23:35:32 UTC",37.5277,-118.828,1.7,6.8,,"Mammoth Lakes, California",18km,SE
+us,b000ki7c,"Monday, October 21, 2013 23:17:07 UTC",51.5864,-175.3963,5,43.28,,"Adak, Alaska",93km,ESE
+pr,13294010,"Monday, October 21, 2013 23:08:24 UTC",18.684,-66.4067,2.5,23,9,"Brenas, Puerto Rico",24km,NNW
+ci,11381842,"Monday, October 21, 2013 23:03:12 UTC",36.0837,-117.8623,1.5,5.1,10,"Inyokern, California",48km,N
+ak,10827963,"Monday, October 21, 2013 23:02:43 UTC",64.9595,-147.3349,1.5,0.1,,"Badger, Alaska",20km,NNE
+ci,11381834,"Monday, October 21, 2013 22:57:33 UTC",32.9533,-115.5207,2.1,15.6,27,"Brawley, California",2km,SSE
+pr,13294006,"Monday, October 21, 2013 22:43:12 UTC",18.4878,-67.4882,3.1,91,11,"Rincon, Puerto Rico",30km,WNW
+ci,11381818,"Monday, October 21, 2013 22:39:54 UTC",33.912,-116.726,1.6,14.8,60,"Cabazon, California",5km,E
+nc,72092521,"Monday, October 21, 2013 22:32:32 UTC",39.5555,-122.978,2,8.7,,"Covelo, California",35km,SE
+ak,10827941,"Monday, October 21, 2013 22:32:10 UTC",61.6907,-149.5996,1.7,29.6,,"Meadow Lakes, Alaska",7km,N
+pr,13294009,"Monday, October 21, 2013 22:19:45 UTC",19.1054,-66.5008,2.6,22,7,"Tierras Nuevas Poniente, Puerto Rico",71km,N
+nc,72092516,"Monday, October 21, 2013 22:15:14 UTC",38.7897,-122.7637,1.3,2.4,,"The Geysers, California",1km,NNW
+ak,10827917,"Monday, October 21, 2013 22:09:41 UTC",62.5843,-148.9891,1.6,53.3,,"Y, Alaska",64km,NE
+pr,13294008,"Monday, October 21, 2013 22:09:01 UTC",17.9123,-66.2752,1.9,7,8,"Salinas, Puerto Rico",7km,SSE
+nc,72092501,"Monday, October 21, 2013 21:56:26 UTC",38.8427,-122.835,0.5,2.1,,"Cobb, California",9km,WNW
+nc,72092506,"Monday, October 21, 2013 21:55:17 UTC",37.5245,-118.8375,0.3,4.8,,"Mammoth Lakes, California",18km,SE
+us,b000ki4z,"Monday, October 21, 2013 21:44:50 UTC",13.1907,120.4038,4.5,100.08,,"Tayaman, Philippines",18km,WSW
+nc,72092481,"Monday, October 21, 2013 21:43:33 UTC",37.5268,-118.8345,0.5,6.5,,"Mammoth Lakes, California",18km,SE
+ak,10827903,"Monday, October 21, 2013 21:41:31 UTC",63.6023,-149.3687,1.2,102.4,,"Cantwell, Alaska",31km,NW
+ak,10827897,"Monday, October 21, 2013 21:32:21 UTC",61.0663,-147.5281,1.5,1.9,,"Valdez, Alaska",64km,W
+nc,72092466,"Monday, October 21, 2013 21:25:30 UTC",38.7703,-122.7467,0.6,2.3,,"The Geysers, California",1km,SE
+ak,10827891,"Monday, October 21, 2013 21:18:18 UTC",62.9681,-148.2999,0,6.8,,"Cantwell, Alaska",57km,SE
+ak,10827882,"Monday, October 21, 2013 21:10:59 UTC",63.2788,-151.222,1.4,6.6,,"Cantwell, Alaska",114km,W
+uw,60615112,"Monday, October 21, 2013 21:08:39 UTC",49.4922,-120.504,2.4,0,,"Princeton, Canada",3km,N
+nc,71075364,"Monday, October 21, 2013 21:02:16 UTC",38.1512,-122.1342,1.6,6.8,,"Benicia, California",11km,N
+nc,72092441,"Monday, October 21, 2013 21:01:51 UTC",37.5472,-118.8367,0.4,5.5,,"Mammoth Lakes, California",16km,SE
+uw,60615102,"Monday, October 21, 2013 20:57:30 UTC",48.369,-122.2437,0.6,12.2,,"Big Lake, Washington",3km,S
+ci,11381786,"Monday, October 21, 2013 20:48:12 UTC",32.5317,-115.6637,1.8,7.5,13,"Progreso, Mexico",9km,SW
+ak,10827813,"Monday, October 21, 2013 20:47:11 UTC",63.6846,-149.0159,1.2,100,,"Healy, Alaska",19km,S
+nc,72092426,"Monday, October 21, 2013 20:41:40 UTC",38.759,-122.7267,0.8,2.5,,"The Geysers, California",3km,SE
+ci,11381778,"Monday, October 21, 2013 20:40:24 UTC",34.1357,-116.8383,1.5,8.6,54,"Big Bear City, California",13km,S
+nc,72092416,"Monday, October 21, 2013 20:39:54 UTC",37.5315,-118.8268,1.7,7.9,,"Mammoth Lakes, California",18km,SE
+nc,72092411,"Monday, October 21, 2013 20:39:17 UTC",37.5303,-118.8287,1.2,7.6,,"Mammoth Lakes, California",18km,SE
+nc,72092401,"Monday, October 21, 2013 20:27:57 UTC",38.822,-122.7637,1.6,2.3,,"Cobb, California",3km,W
+nc,72092391,"Monday, October 21, 2013 20:11:56 UTC",37.5287,-118.8257,1.2,7.5,,"Mammoth Lakes, California",18km,SE
+ak,10827787,"Monday, October 21, 2013 20:00:39 UTC",63.9307,-148.7912,2.3,0,,"Healy, Alaska",11km,NE
+pr,13294007,"Monday, October 21, 2013 19:48:20 UTC",18.3045,-65.6624,2.6,8,3,"Fajardo, Puerto Rico",2km,SSW
+nc,72092381,"Monday, October 21, 2013 19:45:46 UTC",40.5488,-122.1882,2.1,16.7,,"Palo Cedro, California",4km,ESE
+nn,00427005,"Monday, October 21, 2013 19:45:09 UTC",39.675,-119.6905,0.27,10.9988,4,"Spanish Springs, Nevada",3km,NNE
+nn,00426947,"Monday, October 21, 2013 19:40:36 UTC",38.2987,-118.5812,0.95,0.82,13,"Hawthorne, Nevada",25km,S
+uw,60614987,"Monday, October 21, 2013 19:26:27 UTC",42.1612,-122.8435,1,8.5,,"Talent, Oregon",10km,SSW
+ci,11381754,"Monday, October 21, 2013 19:11:06 UTC",32.878,-116.2472,1.5,6.2,19,"Pine Valley, California",27km,ENE
+nn,00426944,"Monday, October 21, 2013 18:53:51 UTC",39.6768,-119.6911,0.42,10.4312,3,"Spanish Springs, Nevada",3km,NNE
+ak,10827769,"Monday, October 21, 2013 18:51:53 UTC",61.6603,-150.9863,1.6,64.6,,"Willow, Alaska",51km,W
+nc,72092341,"Monday, October 21, 2013 18:44:20 UTC",37.5942,-118.7747,0.9,0,,"Mammoth Lakes, California",18km,ESE
+uw,60614962,"Monday, October 21, 2013 18:42:31 UTC",47.7107,-122.0618,0.6,5,,"Cottage Lake, Washington",3km,SSE
+nc,72092331,"Monday, October 21, 2013 18:42:23 UTC",37.5273,-118.8253,1,8.4,,"Mammoth Lakes, California",18km,SE
+nn,00426936,"Monday, October 21, 2013 18:38:33 UTC",39.6769,-119.6943,0.71,10.7333,9,"Spanish Springs, Nevada",3km,NNE
+ak,10827671,"Monday, October 21, 2013 18:36:21 UTC",63.5178,-151.0609,0.6,0.1,4,"Cantwell, Alaska",106km,W
+us,b000khyn,"Monday, October 21, 2013 18:17:21 UTC",-37.8957,-75.1789,5,17.52,,"Lebu, Chile",138km,WSW
+ci,11381730,"Monday, October 21, 2013 17:29:09 UTC",34.34,-116.8828,1.2,0,24,"Big Bear City, California",9km,NNW
+ak,10827632,"Monday, October 21, 2013 17:23:07 UTC",61.398,-146.6109,3,19.4,,"Valdez, Alaska",32km,NNW
+us,b000khxm,"Monday, October 21, 2013 17:21:06 UTC",-22.533,169.6979,5,41.25,,"Tadine, New Caledonia",216km,ESE
+hv,60580146,"Monday, October 21, 2013 17:20:12 UTC",19.3085,-155.3652,1.6,32.3,,"Pahala, Hawaii",16km,NE
+nc,72092201,"Monday, October 21, 2013 17:07:49 UTC",37.5267,-118.8277,1.7,7.3,,"Mammoth Lakes, California",18km,SE
+nc,71075359,"Monday, October 21, 2013 17:05:11 UTC",37.5128,-118.834,3.1,4.9,,"Mammoth Lakes, California",19km,SE
+nc,72092191,"Monday, October 21, 2013 17:04:10 UTC",37.531,-118.8252,3.8,8.2,,"Mammoth Lakes, California",18km,SE
+nc,72092196,"Monday, October 21, 2013 17:03:58 UTC",37.5292,-118.8227,1.2,7.3,,"Mammoth Lakes, California",18km,SE
+us,b000khwl,"Monday, October 21, 2013 16:26:58 UTC",-10.7485,-73.7026,4.6,113.03,,"Mazamari, Peru",110km,NE
+ci,11381714,"Monday, October 21, 2013 16:25:53 UTC",33.5077,-116.4433,0.2,11.4,11,"La Quinta, California",21km,SW
+nc,72092171,"Monday, October 21, 2013 16:13:14 UTC",38.7727,-122.7242,0.7,2.7,,"The Geysers, California",2km,E
+pr,13294005,"Monday, October 21, 2013 15:58:43 UTC",18.2642,-67.7935,2.7,8,9,"Rincon, Puerto Rico",58km,W
+us,b000khvv,"Monday, October 21, 2013 15:55:26 UTC",30.1084,-113.4532,4.7,9.95,,"La Libertad, Mexico",76km,WNW
+ak,10827601,"Monday, October 21, 2013 15:50:28 UTC",59.3193,-153.7175,2.8,100,,"Old Iliamna, Alaska",83km,SE
+ak,10827597,"Monday, October 21, 2013 15:22:40 UTC",62.9852,-148.1289,0.6,4.1,,"Cantwell, Alaska",61km,SE
+uw,60036108,"Monday, October 21, 2013 15:22:04 UTC",48.0835,-121.9778,0.1,10.5,,"Granite Falls, Washington",0km,W
+ak,10827593,"Monday, October 21, 2013 15:07:26 UTC",63.5271,-152.4403,1.6,1,7,"McGrath, Alaska",170km,ENE
+ci,11381690,"Monday, October 21, 2013 15:03:51 UTC",33.235,-115.63,0.5,2,10,"Niland, California",10km,W
+us,b000khvn,"Monday, October 21, 2013 15:01:56 UTC",3.448,-31.3853,4.8,10,,Central Mid-Atlantic Ridge,NA,NA
+uw,60036118,"Monday, October 21, 2013 14:54:47 UTC",48.4123,-122.4982,0.7,12.8,,"Mount Vernon, Washington",12km,W
+ci,11381682,"Monday, October 21, 2013 14:41:09 UTC",33.9325,-116.3603,1.1,7.9,35,"Sky Valley, California",4km,N
+ak,10827589,"Monday, October 21, 2013 14:39:16 UTC",63.0226,-149.5829,0.9,38.9,,"Cantwell, Alaska",51km,SW
+ci,11381674,"Monday, October 21, 2013 14:30:56 UTC",33.3508,-116.3087,0.8,12,27,"Borrego Springs, California",12km,NNE
+us,b000khuw,"Monday, October 21, 2013 14:22:17 UTC",10.0269,124.3119,4.6,20.01,,"Hinlayagan Ilaud, Philippines",2km,W
+ak,10827583,"Monday, October 21, 2013 14:22:08 UTC",63.1842,-148.2605,0.3,10.4,,"Cantwell, Alaska",41km,ESE
+ak,10827579,"Monday, October 21, 2013 14:18:43 UTC",60.1087,-153.314,0.9,10.8,,"Redoubt Volcano, Alaska",52km,SW
+ak,10827578,"Monday, October 21, 2013 14:16:31 UTC",61.5532,-149.812,1.2,36,,"Big Lake, Alaska",8km,ENE
+ci,11381666,"Monday, October 21, 2013 14:03:47 UTC",33.571,-118.2972,2.2,8.5,39,"San Pedro, California",18km,S
+ak,10827570,"Monday, October 21, 2013 13:57:16 UTC",59.9498,-152.999,3,100,41,"Redoubt Volcano, Alaska",61km,SSW
+ci,11381658,"Monday, October 21, 2013 13:51:51 UTC",33.5752,-118.3193,2.4,0.7,7,"San Pedro, California",17km,S
+nc,72092136,"Monday, October 21, 2013 13:50:55 UTC",38.7913,-122.7635,0.9,2.7,,"The Geysers, California",1km,NNW
+us,b000khue,"Monday, October 21, 2013 13:50:16 UTC",-10.1712,-13.2211,5.1,12.99,,"Georgetown, Saint Helena",280km,SSE
+ci,11381650,"Monday, October 21, 2013 13:49:37 UTC",36.048,-117.4817,1.6,4.6,26,"Searles Valley, California",31km,NNW
+nc,72092116,"Monday, October 21, 2013 13:24:02 UTC",38.8252,-122.8047,0.9,3.1,,"The Geysers, California",6km,NW
+ci,11381642,"Monday, October 21, 2013 13:15:27 UTC",34.0052,-117.206,0.8,17.4,36,"Redlands, California",5km,SSW
+ci,11381634,"Monday, October 21, 2013 13:14:00 UTC",33.5805,-116.7197,0.7,15,27,"Anza, California",5km,WNW
+ak,10827565,"Monday, October 21, 2013 13:02:59 UTC",54.682,-161.0824,3.3,6.9,,"Sand Point, Alaska",81km,SSW
+nc,72092111,"Monday, October 21, 2013 13:02:15 UTC",38.823,-122.8063,1.2,3.3,,"The Geysers, California",6km,NW
+ci,11381626,"Monday, October 21, 2013 12:54:50 UTC",36.0767,-117.4942,0.7,7.8,8,"Searles Valley, California",35km,NNW
+ak,10827560,"Monday, October 21, 2013 12:52:11 UTC",63.4107,-151.7796,1.1,7,,"Cantwell, Alaska",141km,W
+ak,10827559,"Monday, October 21, 2013 12:50:34 UTC",63.5112,-147.752,1.1,1.6,,"Cantwell, Alaska",61km,ENE
+ci,11381618,"Monday, October 21, 2013 12:44:37 UTC",33.4377,-116.6403,0.3,4.5,17,"Anza, California",13km,SSE
+ci,11381610,"Monday, October 21, 2013 12:41:15 UTC",36.0715,-117.5107,1.2,6.1,18,"Searles Valley, California",35km,NNW
+ak,10827553,"Monday, October 21, 2013 12:40:25 UTC",63.2512,-151.2422,1.3,10.4,,"Cantwell, Alaska",115km,W
+nc,72092101,"Monday, October 21, 2013 12:37:10 UTC",38.8155,-122.7972,0.8,1.6,,"The Geysers, California",5km,NW
+uu,60041987,"Monday, October 21, 2013 12:29:10 UTC",44.7718,-110.7133,1.7,4.2,,"West Yellowstone, Montana",33km,ENE
+uw,60614737,"Monday, October 21, 2013 12:20:31 UTC",46.0118,-123.5953,1.4,22.1,,"Gearhart, Oregon",24km,E
+uu,60041982,"Monday, October 21, 2013 12:05:33 UTC",37.9058,-112.484,2.3,9.6,,"Panguitch, Utah",10km,NNW
+nc,72092096,"Monday, October 21, 2013 12:05:24 UTC",37.0308,-121.4592,1.2,9.6,,"Gilroy, California",10km,ENE
+ci,11381602,"Monday, October 21, 2013 12:04:08 UTC",33.6825,-116.79,0.8,18.2,34,"Idyllwild-Pine Cove, California",9km,SW
+uu,60041977,"Monday, October 21, 2013 11:43:55 UTC",44.7718,-110.7123,1.5,4.6,,"West Yellowstone, Montana",33km,ENE
+us,b000khu2,"Monday, October 21, 2013 11:43:17 UTC",10.0827,124.0723,4.6,19.99,,"Buenavista, Philippines",4km,W
+ci,11381586,"Monday, October 21, 2013 11:42:43 UTC",34.0513,-118.0163,1.6,12.2,62,"El Monte, California",2km,SSE
+ci,11381594,"Monday, October 21, 2013 11:40:33 UTC",36.1167,-117.9135,0.4,4.6,7,"Inyokern, California",52km,N
+uu,60041972,"Monday, October 21, 2013 11:38:25 UTC",44.7718,-110.7163,1.5,4.5,,"West Yellowstone, Montana",33km,ENE
+us,b000khtx,"Monday, October 21, 2013 11:29:33 UTC",18.8785,145.4494,4.5,239,,"Agrihan, Northern Mariana Islands",26km,WNW
+nn,00426888,"Monday, October 21, 2013 11:26:29 UTC",39.6679,-119.6859,0.4,10.2972,9,"Spanish Springs, Nevada",2km,NE
+nn,00426886,"Monday, October 21, 2013 11:22:24 UTC",39.6681,-119.6861,0.01,9.4823,4,"Spanish Springs, Nevada",2km,NE
+uu,60041962,"Monday, October 21, 2013 11:22:12 UTC",38.989,-111.3617,1,1.4,,"Ferron, Utah",22km,WSW
+nc,72092086,"Monday, October 21, 2013 11:17:59 UTC",38.8092,-122.792,1,1.2,,"The Geysers, California",4km,NW
+uu,60041957,"Monday, October 21, 2013 11:16:35 UTC",44.7722,-110.7088,1.3,4,,"West Yellowstone, Montana",33km,ENE
+ak,10827534,"Monday, October 21, 2013 11:09:46 UTC",62.6279,-151.2552,1.1,58.5,,"Talkeetna, Alaska",68km,WNW
+ci,11381578,"Monday, October 21, 2013 11:09:41 UTC",34.218,-117.4482,0.7,12.2,24,"Muscoy, California",11km,NW
+ak,10827529,"Monday, October 21, 2013 11:02:35 UTC",62.0957,-151.6931,1.8,98.1,,"Talkeetna, Alaska",86km,WSW
+ak,10827524,"Monday, October 21, 2013 10:58:57 UTC",60.6485,-151.6728,1.3,78,,"Nikiski, Alaska",21km,WSW
+nc,72092081,"Monday, October 21, 2013 10:57:15 UTC",37.5258,-118.826,1.1,8,,"Mammoth Lakes, California",18km,SE
+ak,10827523,"Monday, October 21, 2013 10:55:31 UTC",62.3652,-149.0792,1,46.9,11,"Y, Alaska",46km,ENE
+nn,00426879,"Monday, October 21, 2013 10:53:42 UTC",36.7014,-116.3207,0.27,8.5495,16,"Beatty, Nevada",45km,ESE
+ak,10827519,"Monday, October 21, 2013 10:50:43 UTC",62.7649,-150.871,1.2,31,,"Talkeetna, Alaska",62km,NW
+ci,11381570,"Monday, October 21, 2013 10:48:17 UTC",33.5037,-116.4427,0.7,9.7,32,"La Quinta, California",21km,SW
+ak,10827515,"Monday, October 21, 2013 10:44:31 UTC",60.8923,-140.1339,1.8,0,19,"Haines Junction, Canada",143km,W
+nc,72092071,"Monday, October 21, 2013 10:39:19 UTC",39.3768,-122.9073,1.9,7.4,,"Upper Lake, California",23km,N
+uw,60614717,"Monday, October 21, 2013 10:27:16 UTC",46.8375,-122.0193,0.3,10,,"Eatonville, Washington",19km,E
+ak,10827508,"Monday, October 21, 2013 10:11:50 UTC",63.426,-151.2624,1.4,10.3,10,"Cantwell, Alaska",115km,W
+nc,72092061,"Monday, October 21, 2013 10:11:48 UTC",40.5253,-123.5365,1.4,9.6,,"Hayfork, California",30km,W
+nc,72092056,"Monday, October 21, 2013 09:53:58 UTC",37.6858,-119.3942,2.2,15.9,,"Yosemite Valley, California",17km,ESE
+nc,72092051,"Monday, October 21, 2013 09:39:32 UTC",38.8085,-122.813,1.4,2.3,,"The Geysers, California",6km,NW
+ci,11381554,"Monday, October 21, 2013 09:38:58 UTC",33.037,-116.4258,1.3,10.3,42,"Julian, California",17km,ESE
+ak,10827501,"Monday, October 21, 2013 09:29:35 UTC",60.0256,-141.4751,1.4,11.6,,"Cape Yakataga, Alaska",53km,E
+nc,72092041,"Monday, October 21, 2013 09:13:40 UTC",37.7848,-121.9052,1.2,12.9,,"Blackhawk, California",3km,S
+nc,72092036,"Monday, October 21, 2013 09:02:01 UTC",35.7332,-121.1245,1.4,8.5,,"San Simeon, California",11km,NNE
+nc,72092026,"Monday, October 21, 2013 08:58:36 UTC",37.665,-119.3817,1.9,14.3,,"Yosemite Valley, California",19km,ESE
+nc,72092021,"Monday, October 21, 2013 08:57:56 UTC",38.8182,-122.7977,0.9,2.8,,"The Geysers, California",5km,NW
+nc,72092016,"Monday, October 21, 2013 08:57:24 UTC",36.539,-121.1308,2,6.8,,"Soledad, California",21km,NE
+nc,72092011,"Monday, October 21, 2013 08:56:11 UTC",38.8393,-122.7758,0.9,2.1,,"Cobb, California",4km,WNW
+nc,72092001,"Monday, October 21, 2013 08:32:56 UTC",37.7928,-121.9117,3,12.3,,"Blackhawk, California",3km,S
+nc,72091996,"Monday, October 21, 2013 08:25:22 UTC",38.1042,-118.8663,1.7,5,,"Bridgeport, California",36km,ESE
+nc,72091991,"Monday, October 21, 2013 08:25:06 UTC",37.6438,-119.4135,1.9,6.4,,"Yosemite Valley, California",18km,SE
+ak,10827489,"Monday, October 21, 2013 08:19:49 UTC",62.7584,-150.7476,1.1,89.2,,"Talkeetna, Alaska",58km,NW
+uu,60041952,"Monday, October 21, 2013 08:05:47 UTC",37.9432,-112.8627,1.3,5.9,,"Parowan, Utah",11km,NNW
+nc,72091986,"Monday, October 21, 2013 07:46:27 UTC",37.7867,-121.9155,1.3,10.6,,"Blackhawk, California",3km,S
+nc,72091981,"Monday, October 21, 2013 07:45:26 UTC",37.7877,-121.9112,1.9,10.5,,"Blackhawk, California",3km,S
+nn,00426885,"Monday, October 21, 2013 07:38:48 UTC",39.6669,-119.6876,0.21,11.3276,5,"Spanish Springs, Nevada",2km,NE
+ci,11381530,"Monday, October 21, 2013 07:28:22 UTC",33.509,-116.5568,0.4,16.2,27,"Anza, California",11km,ESE
+nc,72091971,"Monday, October 21, 2013 07:23:41 UTC",37.6813,-119.3915,1,4,,"Yosemite Valley, California",17km,ESE
+us,b000khsm,"Monday, October 21, 2013 07:09:58 UTC",3.695,123.4738,4.7,491.47,,"Maitum, Philippines",283km,SSW
